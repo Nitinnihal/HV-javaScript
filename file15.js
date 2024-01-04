@@ -27,3 +27,6 @@ console.log(mixed);
 let removedItem = mixed.shift();
 console.log(mixed);
 console.log("the removed item is", removedItem);
+
+
+// push & pop are faster in comparision with shift, unshif.
